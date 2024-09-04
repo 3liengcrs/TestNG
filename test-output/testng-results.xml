@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-03T22:01:34 EDT" name="Default suite" finished-at="2024-09-03T22:01:34 EDT" duration-ms="42">
+    <groups>
+    </groups>
+    <test started-at="2024-09-03T22:01:34 EDT" name="Default test" finished-at="2024-09-03T22:01:34 EDT" duration-ms="42">
+      <class name="com.neotech.lesson03.AddEmployeeWithDataProvider">
+        <test-method signature="adEmployee(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.neotech.lesson03.AddEmployeeWithDataProvider@434a63ab]" started-at="2024-09-03T22:01:34 EDT" name="adEmployee" data-provider="employees" finished-at="2024-09-03T22:01:34 EDT" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sabah]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[maweer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[NY]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adEmployee -->
+      </class> <!-- com.neotech.lesson03.AddEmployeeWithDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
